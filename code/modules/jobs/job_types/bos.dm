@@ -182,7 +182,7 @@ Head Paladin
 		/obj/item/melee/onehanded/knife/hunting = 1,
 		/obj/item/melee/powerfist/f13 = 1,
 		/obj/item/gun/ballistic/automatic/pistol/n99/crusader = 1,
-		/obj/item/ammo_box/magazine/m10mm/adv/simple = 2,
+		/obj/item/ammo_box/magazine/pistol10mm = 2,
 		/obj/item/reagent_containers/hypospray/medipen/stimpak = 3,
 		)
 
@@ -370,7 +370,7 @@ Head Knight
 	id =			/obj/item/card/id/dogtag
 	backpack_contents = list(
 		/obj/item/gun/ballistic/automatic/pistol/pistol14 = 1,
-		/obj/item/ammo_box/magazine/m14mm = 2,
+		/obj/item/ammo_box/magazine/pistol14mm = 2,
 		/obj/item/melee/onehanded/knife/hunting = 1,
 		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
 		/obj/item/book/granter/crafting_recipe/gunsmith_one=1,
@@ -814,7 +814,7 @@ Senior Knight
 		/obj/item/stock_parts/cell/ammo/mfc=2,
 		/obj/item/gun_upgrade/scope/watchman = 1,
 		/obj/item/gun/ballistic/automatic/pistol/autoloader = 1,
-		/obj/item/ammo_box/magazine/m45/socom = 2,
+		/obj/item/ammo_box/magazine/pistol45/socom = 2,
 		)
 
 /datum/outfit/loadout/sknightb
@@ -928,7 +928,7 @@ Knight
 		/obj/item/gun/energy/laser/aer9=1,
 		/obj/item/stock_parts/cell/ammo/mfc=2,
 		/obj/item/gun/ballistic/automatic/pistol/autoloader = 1,
-		/obj/item/ammo_box/magazine/m45/socom = 2,
+		/obj/item/ammo_box/magazine/pistol45/socom = 2,
 		)
 
 /datum/outfit/loadout/knightb
@@ -960,7 +960,7 @@ Knight
 		/obj/item/gun/energy/laser/aer9=1,
 		/obj/item/stock_parts/cell/ammo/mfc=2,
 		/obj/item/gun/ballistic/automatic/pistol/autoloader = 1,
-		/obj/item/ammo_box/magazine/m45/socom = 2,
+		/obj/item/ammo_box/magazine/pistol45/socom = 2,
 		)
 
 /datum/outfit/loadout/knighte

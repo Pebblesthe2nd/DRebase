@@ -257,7 +257,7 @@ GLOBAL_LIST_EMPTY(rubber_toolbox_icons)
 /obj/item/storage/toolbox/ammo/surplus
 	name = "ammunition case (10mm rifle magazines)"
 	desc = "It contains a few 10mm rifle magazines."
-	ammotype = /obj/item/ammo_box/magazine/m10mm/rifle
+	ammotype = /obj/item/ammo_box/magazine/pistol10mm/rifle
 
 /obj/item/storage/toolbox/infiltrator
 	name = "insidious case"

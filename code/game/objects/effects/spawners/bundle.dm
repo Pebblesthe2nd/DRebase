@@ -180,5 +180,5 @@
 /obj/effect/spawner/bundle/crate/surplusrifle
 	name = "surplus rifle spawner"
 	items = list(
-		/obj/item/ammo_box/magazine/m10mm/rifle
+		/obj/item/ammo_box/magazine/pistol10mm/rifle
 	)

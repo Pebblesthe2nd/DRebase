@@ -1,4 +1,4 @@
-/obj/item/ammo_box/magazine/m10mm/rifle
+/obj/item/ammo_box/magazine/pistol10mm/rifle
 	name = "rifle magazine (10mm)"
 	desc = "A well-worn magazine fitted for the surplus rifle."
 	icon_state = "75-8"
@@ -8,7 +8,7 @@
 	custom_materials = list(/datum/material/iron = MATS_LIGHT_SMALL_RIFLE_MAGAZINE)
 	w_class = WEIGHT_CLASS_TINY
 
-/obj/item/ammo_box/magazine/m10mm/rifle/update_icon()
+/obj/item/ammo_box/magazine/pistol10mm/rifle/update_icon()
 	if(ammo_count())
 		icon_state = "75-8"
 	else

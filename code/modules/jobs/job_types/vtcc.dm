@@ -52,7 +52,7 @@
 	belt = 			/obj/item/gun/ballistic/automatic/pistol/n99/executive
 	backpack_contents = list(
 		/obj/item/storage/box/citizenship_permits = 1, \
-		/obj/item/ammo_box/magazine/m10mm = 3 )
+		/obj/item/ammo_box/magazine/pistol10mm = 3 )
 
 /datum/outfit/loadout/treasurer
 	name = "Treasurer"
@@ -186,7 +186,7 @@
 		/obj/item/melee/classic_baton=1,
 		/obj/item/kitchen/knife=1,
 		/obj/item/pda/warden=1,
-		/obj/item/ammo_box/magazine/m10mm=3
+		/obj/item/ammo_box/magazine/pistol10mm=3
 		)
 
 /datum/outfit/loadout/secchief
@@ -264,7 +264,7 @@
 		/obj/item/storage/survivalkit_aid=1,
 		/obj/item/clothing/mask/gas/sechailer=1,
 		/obj/item/gun/ballistic/automatic/pistol/n99=1,
-		/obj/item/ammo_box/magazine/m10mm_adv=2
+		/obj/item/ammo_box/magazine/pistol10mm=2
 	)
 
 /datum/outfit/job/vtcc/f13provost/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
@@ -287,7 +287,7 @@
 	name = "Espionage"
 	backpack_contents = list(
 		/obj/item/gun/ballistic/automatic/smg/smg10mm=1,
-		/obj/item/ammo_box/magazine/m10mm_adv/ext=3,
+		/obj/item/ammo_box/magazine/pistol10mm/ext=3,
 		/obj/item/suppressor = 1,
 		/obj/item/camera=1,
 		/obj/item/book/granter/trait/demolitions=1
@@ -357,7 +357,7 @@
 	name = "Shock Cadet"
 	backpack_contents = list(
 	/obj/item/gun/ballistic/automatic/m1carbine=1,
-	/obj/item/ammo_box/magazine/m10mm_adv=2
+	/obj/item/ammo_box/magazine/pistol10mm=2
 	)
 
 /datum/outfit/loadout/deepend
@@ -374,7 +374,7 @@
 	name = "Field Medic"
 	backpack_contents = list(
 	/obj/item/gun/ballistic/automatic/pistol/n99=1,
-	/obj/item/ammo_box/magazine/m10mm=2,
+	/obj/item/ammo_box/magazine/pistol10mm=2,
 	/obj/item/storage/bag/chemistry=1,
 	/obj/item/storage/survivalkit_aid=1,
 	/obj/item/storage/box/medicine/stimpak5=3,
@@ -416,7 +416,7 @@
 	l_pocket =	/obj/item/storage/bag/money/small/vaultcity
 	suit_store = /obj/item/gun/ballistic/automatic/pistol/autoloader
 	backpack_contents = list(
-		/obj/item/ammo_box/magazine/m45=2,
+		/obj/item/ammo_box/magazine/pistol45=2,
 		/obj/item/advanced_crafting_components/assembly = 2,
 		/obj/item/advanced_crafting_components/alloys = 2,
 		/obj/item/book/granter/crafting_recipe/gunsmith_one = 1,
@@ -472,7 +472,7 @@
 	l_hand =	/obj/item/gun/ballistic/automatic/pistol/sig
 	r_pocket = /obj/item/card/data/wpermit
 	backpack_contents = list(
-		/obj/item/ammo_box/magazine/m9mmds = 2
+		/obj/item/ammo_box/magazine/pistol9mmds = 2
 		)
 
 
@@ -493,7 +493,7 @@
 	/obj/item/clothing/shoes/jackboots=1,
 	/obj/item/gun/ballistic/rifle/mag/commando=1,
 	/obj/item/stack/sheet/cardboard/twenty=1,
-	/obj/item/ammo_box/magazine/m45/extended = 2
+	/obj/item/ammo_box/magazine/pistol45/extended = 2
 	)
 
 /datum/outfit/loadout/caravaner
@@ -826,7 +826,7 @@
 	/obj/item/clothing/suit/armor/f13/leather_jacket=1,
 	/obj/item/clothing/neck/mantle/gray=1,
 	/obj/item/gun/ballistic/automatic/pistol/n99=1,
-	/obj/item/ammo_box/magazine/m10mm=1,
+	/obj/item/ammo_box/magazine/pistol10mm=1,
 	/obj/item/clothing/glasses/welding=1,
 	/obj/item/twohanded/fireaxe=1,
 	/obj/item/weldingtool/largetank=1,
@@ -840,7 +840,7 @@
 	/obj/item/claymore/machete/pipe/tireiron=1,
 	/obj/item/shield/riot/buckler=1,
 	/obj/item/gun/ballistic/automatic/pistol/m1911=1,
-	/obj/item/ammo_box/magazine/m45=1,
+	/obj/item/ammo_box/magazine/pistol45=1,
 	/obj/item/clothing/shoes/workboots/mining=1,
 	/obj/item/clothing/glasses/f13/biker=1,
 	/obj/item/clothing/mask/ncr_facewrap=1

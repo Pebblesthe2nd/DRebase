@@ -23150,7 +23150,7 @@
 /obj/effect/spawner/lootdrop/f13/advcrafting,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/rack/shelf_metal,
-/obj/item/ammo_box/magazine/m10mm,
+/obj/item/ammo_box/magazine/pistol10mm,
 /turf/open/floor/plasteel/f13{
 	icon_state = "yellowrustychess"
 	},
