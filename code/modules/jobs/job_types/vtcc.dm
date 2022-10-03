@@ -416,7 +416,7 @@
 	l_pocket =	/obj/item/storage/bag/money/small/vaultcity
 	suit_store = /obj/item/gun/ballistic/automatic/pistol/autoloader
 	backpack_contents = list(
-		/obj/item/ammo_box/magazine/m45=2,
+		/obj/item/ammo_box/magazine/pistol45=2,
 		/obj/item/advanced_crafting_components/assembly = 2,
 		/obj/item/advanced_crafting_components/alloys = 2,
 		/obj/item/book/granter/crafting_recipe/gunsmith_one = 1,
@@ -472,7 +472,7 @@
 	l_hand =	/obj/item/gun/ballistic/automatic/pistol/sig
 	r_pocket = /obj/item/card/data/wpermit
 	backpack_contents = list(
-		/obj/item/ammo_box/magazine/m9mmds = 2
+		/obj/item/ammo_box/magazine/pistol9mmds = 2
 		)
 
 
@@ -493,7 +493,7 @@
 	/obj/item/clothing/shoes/jackboots=1,
 	/obj/item/gun/ballistic/rifle/mag/commando=1,
 	/obj/item/stack/sheet/cardboard/twenty=1,
-	/obj/item/ammo_box/magazine/m45/extended = 2
+	/obj/item/ammo_box/magazine/pistol45/extended = 2
 	)
 
 /datum/outfit/loadout/caravaner
@@ -840,7 +840,7 @@
 	/obj/item/claymore/machete/pipe/tireiron=1,
 	/obj/item/shield/riot/buckler=1,
 	/obj/item/gun/ballistic/automatic/pistol/m1911=1,
-	/obj/item/ammo_box/magazine/m45=1,
+	/obj/item/ammo_box/magazine/pistol45=1,
 	/obj/item/clothing/shoes/workboots/mining=1,
 	/obj/item/clothing/glasses/f13/biker=1,
 	/obj/item/clothing/mask/ncr_facewrap=1

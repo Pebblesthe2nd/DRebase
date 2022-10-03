@@ -267,7 +267,7 @@ Raider
 	id = /obj/item/card/id/rusted
 	backpack_contents = list(
 		/obj/item/gun/ballistic/automatic/m1carbine = 1,
-		/obj/item/ammo_box/magazine/m10mm/adv/simple=2,
+		/obj/item/ammo_box/magazine/pistol10mm=2,
 		/obj/item/melee/onehanded/knife/bayonet = 1,
 		/obj/item/storage/box/ration/ranger_breakfast = 1,
 		/obj/item/book/granter/crafting_recipe/blueprint/service = 1)
@@ -308,7 +308,7 @@ Raider
 	gloves = /obj/item/clothing/gloves/f13/blacksmith
 	backpack_contents = list(
 		/obj/item/gun/ballistic/automatic/pistol/m1911/custom = 1,
-		/obj/item/ammo_box/magazine/m45 = 1,
+		/obj/item/ammo_box/magazine/pistol45 = 1,
 		/obj/item/twohanded/steelsaw = 1,
 		/obj/item/melee/smith/hammer = 1,
 		/obj/item/stack/sheet/mineral/sandstone = 50,
@@ -437,7 +437,7 @@ Raider
 		/obj/item/weldingtool/largetank = 1,
 		/obj/item/storage/belt/utility = 1,
 		/obj/item/gun/ballistic/automatic/pistol/type17 = 1,
-		/obj/item/ammo_box/magazine/m10mm/adv/simple = 2,
+		/obj/item/ammo_box/magazine/pistol10mm = 2,
 		/obj/item/clothing/under/rank/civilian/curator/treasure_hunter = 1,
 		/obj/item/clothing/head/radiation = 1,
 		/obj/item/clothing/glasses/welding = 1,
@@ -580,7 +580,7 @@ Raider
 	gloves = /obj/item/clothing/gloves/f13/blacksmith
 	head = /obj/item/clothing/glasses/welding
 	r_hand = /obj/item/weldingtool/largetank
-	backpack_contents = list(/obj/item/gun/ballistic/automatic/pistol/m1911=1, /obj/item/ammo_box/magazine/m45 = 2,)
+	backpack_contents = list(/obj/item/gun/ballistic/automatic/pistol/m1911=1, /obj/item/ammo_box/magazine/pistol45 = 2,)
 
 /datum/outfit/loadout/scavenger
 	name = "Scavenger"
@@ -591,7 +591,7 @@ Raider
 	backpack_contents = list(/obj/item/mining_scanner=1,
 							/obj/item/metaldetector=1,
 							/obj/item/shovel=1,
-							/obj/item/gun/ballistic/automatic/pistol/m1911=1, /obj/item/ammo_box/magazine/m45 = 2,)
+							/obj/item/gun/ballistic/automatic/pistol/m1911=1, /obj/item/ammo_box/magazine/pistol45 = 2,)
 
 /datum/outfit/loadout/settler
 	name = "Settler"
@@ -669,7 +669,7 @@ Raider
 	suit = /obj/item/clothing/suit/suspenders
 	backpack_contents = list(
 		/obj/item/gun/ballistic/automatic/pistol/n99=1,
-		/obj/item/ammo_box/magazine/m10mm/adv/simple=2,
+		/obj/item/ammo_box/magazine/pistol10mm=2,
 		/obj/item/pda=1,)
 
 /datum/outfit/loadout/warrior
@@ -752,7 +752,7 @@ Raider
 	gloves = /obj/item/clothing/gloves/f13/military
 	l_hand = /obj/item/gun/ballistic/automatic/pistol/ninemil
 	backpack_contents = list(
-		/obj/item/ammo_box/magazine/m9mm=2,
+		/obj/item/ammo_box/magazine/pistol9mm=2,
 		/obj/item/storage/fancy/cigarettes/dromedaryco=1,)
 
 /datum/outfit/loadout/strandedbos
@@ -814,7 +814,7 @@ Raider
 	head = /obj/item/clothing/head/widered
 	l_hand = /obj/item/gun/ballistic/automatic/pistol/pistol22
 	backpack_contents = list(
-		/obj/item/ammo_box/magazine/m22=2,
+		/obj/item/ammo_box/magazine/pistol22=2,
 		/obj/item/reagent_containers/food/drinks/shaker=1,
 		/obj/item/restraints/handcuffs/fake/kinky=1,
 		/obj/item/melee/onehanded/slavewhip=1,
@@ -1260,7 +1260,7 @@ Raider
 		/obj/item/clothing/under/f13/deadhorses = 1,
 		/obj/item/clothing/under/f13/female/deadhorses = 1,
 		/obj/item/gun/ballistic/automatic/pistol/m1911=1,
-		/obj/item/ammo_box/magazine/m45 = 2,
+		/obj/item/ammo_box/magazine/pistol45 = 2,
 		/obj/item/reagent_containers/pill/patch/healpoultice =2
 	)
 

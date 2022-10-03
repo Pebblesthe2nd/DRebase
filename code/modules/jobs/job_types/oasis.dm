@@ -140,7 +140,7 @@ Mayor
 	uniform = /obj/item/clothing/under/suit/black
 	backpack_contents = list(
 		/obj/item/storage/pill_bottle/chem_tin/radx,
-		/obj/item/ammo_box/magazine/m9mm = 1,
+		/obj/item/ammo_box/magazine/pistol9mm = 1,
 		/obj/item/melee/onehanded/knife/switchblade = 1,
 		/obj/item/pda = 1
 		)
@@ -463,7 +463,7 @@ Mayor
 		/obj/item/hatchet=1,
 		/obj/item/shovel/spade=1, \
 		/obj/item/gun/ballistic/automatic/pistol/n99, \
-		/obj/item/ammo_box/magazine/m10mm/adv/simple=2)
+		/obj/item/ammo_box/magazine/pistol10mm=2)
 	shoes = 		/obj/item/clothing/shoes/workboots
 
 /datum/outfit/job/den/f13settler/pre_equip(mob/living/carbon/human/H)
