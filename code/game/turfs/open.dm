@@ -296,6 +296,7 @@
 /turf/open/proc/ClearWet()//Nuclear option of immediately removing slipperyness from the tile instead of the natural drying over time
 	qdel(GetComponent(/datum/component/wet_floor))
 
+/* Commented out since creates runtimes. AFAIK this has to do with changes in atmos, I have no idea. Until someone who does fixes it, its better off not included.
 /turf/open/rad_act(pulse_strength)
 	. = ..()
 	if (air.get_moles(GAS_CO2) && air.get_moles(GAS_O2))
@@ -303,3 +304,4 @@
 		air.set_moles(GAS_CO2, max(air.get_moles(GAS_CO2)-(pulse_strength/1000),0))
 		air.set_moles(GAS_O2, max(air.get_moles(GAS_O2)-(pulse_strength/2000),0))
 		air.adjust_moles(GAS_PLUOXIUM, pulse_strength/4000)
+/*
