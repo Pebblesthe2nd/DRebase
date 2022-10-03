@@ -445,7 +445,6 @@ obj/item/storage/bag/chemistry/tribal
 
 /obj/item/storage/bag/casings
 	name = "casing bag"
-	desc = "Can be kept in a pocket, useful for scooping up used casings for recycling."
 	icon = 'icons/obj/storage.dmi'
 	icon_state = "bag_cases"
 	w_class = WEIGHT_CLASS_NORMAL
